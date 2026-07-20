@@ -1,4 +1,4 @@
-cricket is ESP32-based project that creates a local web interface to control an active buzzer with three distinct sound modes. The system establishes its own WiFi network (SoftAP) and provides a responsive web interface for controlling the buzzer.
+Cricket is ESP32-based project that creates a local web interface to control an active buzzer with three distinct sound modes. The system establishes its own WiFi network (SoftAP) and provides a responsive web interface for controlling the buzzer.
 
 Features
 Three Sound Modes:
